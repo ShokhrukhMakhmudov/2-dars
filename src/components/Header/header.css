@@ -1,0 +1,19 @@
+header {
+  background-color: #4442ad;
+  color: #fff;
+  padding: 12px 0;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.list a:hover {
+  opacity: 0.8;
+}
